@@ -33,3 +33,11 @@ So far, I'm getting introduced to certain syntax and commands that exist within 
 This lesson has introduced some commands that have to do with directories..  So this is interesting to me because I'm wondering how/when we will be referencing directories within applications in Ruby.  I suppose we do that any time we are referring to a path and specific file within a directory in JS. I am wondering if Ruby has its own "built in command line" feature..
 I will find out!
 There are some really great methods I am seeing here!!  Ruby SEEMS like it contains straightforward commands to create html code in a blend of JS-like code.  Just learned a method that creates a popup with directives to create headers and p tags (using Ruby syntax) in order to make a list of items on the DOM (I think it's on the DOM).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--8/28/16
+I finished the Try Ruby introduction to syntax tutorial yesterday. Today, I completed the first two levels of the course 'Rails for Zombies' at CodeSchool.  Now it is becoming apparent that Ruby is the database part of a full stack application which is written in the Rails language?  That is still to be researched and learned.
+I am LOVING working with different types of databases.  So far, I really enjoyed problem solving in the MEAN stack with MongoDB and Mongoose, as well as using a SQL DB and PostgreSQL.  Now, Ruby is awesome.  It is very intuitive after working with other types of databases.  The methods are straightforward.  CRUD (Create, Read, Update, Delete) with Ruby is great.  There is a    TableName.create method  (or Table.new and .save), there is a TableName.find(#) with an id value, there is a TableName.update method or find, set new values and save.  The delete method is actually TableName.destroy.  Pretty bad ass.   So far so good.  I made it through two levels today.  Good work for a Sunday.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

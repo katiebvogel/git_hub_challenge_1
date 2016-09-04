@@ -38,6 +38,11 @@ There are some really great methods I am seeing here!!  Ruby SEEMS like it conta
 
 --8/28/16
 I finished the Try Ruby introduction to syntax tutorial yesterday. Today, I completed the first two levels of the course 'Rails for Zombies' at CodeSchool.  Now it is becoming apparent that Ruby is the database part of a full stack application which is written in the Rails language?  That is still to be researched and learned.
-I am LOVING working with different types of databases.  So far, I really enjoyed problem solving in the MEAN stack with MongoDB and Mongoose, as well as using a SQL DB and PostgreSQL.  Now, Ruby is awesome.  It is very intuitive after working with other types of databases.  The methods are straightforward.  CRUD (Create, Read, Update, Delete) with Ruby is great.  There is a    TableName.create method  (or Table.new and .save), there is a TableName.find(#) with an id value, there is a TableName.update method or find, set new values and save.  The delete method is actually TableName.destroy.  Pretty bad ass.   So far so good.  I made it through two levels today.  Good work for a Sunday.  
+I am LOVING working with different types of databases.  So far, I really enjoyed problem solving in the MEAN stack with MongoDB and Mongoose, as well as using a SQL DB and PostgreSQL.  Now, Ruby is awesome.  It is very intuitive after working with other types of databases.  The methods are straightforward.  CRUD (Create, Read, Update, Delete) with Ruby is great.  There is a    TableName.create method  (or Table.new and .save), there is a TableName.find(#) with an id value, there is a TableName.update method or find, set new values and save.  The delete method is actually TableName.destroy.  So far so good.  I made it through two levels today.  Good work for a Sunday.  
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-- 8/29/16 --> 9/4/16
+I've continued to work my way through 4 levels of the code school course for getting started with Ruby.  
+The Syntax is very intuitive and I am liking the embedded commands in the HTML.  
+Trying to start a basic Ruby project is proving to be a little less intuitive.  The "gem commands" were not working.  I tried the "sudo gem install rails" command.  Still running into trouble with installation.  So I will continue learning the syntax in the code school challenges! 

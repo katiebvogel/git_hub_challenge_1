@@ -49,5 +49,5 @@ Trying to start a basic Ruby project is proving to be a little less intuitive.  
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-9/5/16
-Continuing with the Rails code course on code school, I am enjoying learning a syntax.  Today's lesson introduced a principle which makes Rails so popular with some people.  Convention over configuration.  It seems Syntax, convention are very important in Rails.  It makes things follow along very intuitively after having learned and worked with JS, Anguar, and SQL/Mongo.  Today I learned a bit about how the controllers work in Rails.  The naming of the files makes the action calls and accessing of info and models very easy.  Or so it seems at this point. 
+9/5/16 - 9/8/16
+Continuing with the Rails code course on code school, I am enjoying learning a syntax.  Today's lesson introduced a principle which makes Rails so popular with some people.  Convention over configuration.  It seems Syntax, convention are very important in Rails.  It makes things follow along very intuitively after having learned and worked with JS, Anguar, and SQL/Mongo.  Today I learned a bit about how the controllers work in Rails.  The naming of the files makes the action calls and accessing of info and models very easy.  Or so it seems at this point.
